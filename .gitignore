@@ -4,6 +4,13 @@ logisim-evolution/
 proteus/
 pomodorino-rs/
 
+# wsl, or win11?
+giada/
+
+# wsl qt
+fontedit/
+krop/
+
 chaiNNer/
 FotoKilof/
 imagepy/
@@ -13,3 +20,7 @@ mkvtoolnix-batch-tool/
 nsz/
 PySimpleGUI-Base64-Encoder/
 Simple_Speech_Recognition/
+DocumentCorrector/
+comic-template-maker/
+pyPDFeditor-GUI/
+pdfsam/
